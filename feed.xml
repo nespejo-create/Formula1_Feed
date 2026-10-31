@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Carrea Fórmula 1 2026</title>
+    <link>https://nespejo-create.github.io/nespejo_F1Java/</link>
+    <description>Premio de Fórmula 1</description>
+    <language>es-ES</language>
+    <pubDate>Thu, 29 Oct 2026 20:38:00 GMT</pubDate>
+    
+    <item>
+      <title>Inicio</title>
+      <link>https://nespejo-create.github.io/nespejo_F1Java/</link>
+      <description>Página de inicio donde se da la bienvenida y contiene enlaces para ir a circuito y pilotos</description>
+      <pubDate>Thu, 29 Oct 2026 20:38:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Circuito</title>
+      <link>https://nespejo-create.github.io/nespejo_F1Java/carrera.html</link>
+      <description>Se da a conocer el circuito de la final caracteristicas y horarios del evento</description>
+      <pubDate>Thu, 29 Oct 2026 20:38:00 GMT</pubDate>
+    </item>
+    
+ <item>
+      <title>Pilotos</title>
+      <link>https://nespejo-create.github.io/nespejo_F1Java/pilotos.html</link>
+      <description>Descripción de los dos primeros ganadores del premio </description>
+      <pubDate>Thu, 29 Oct 2026 20:38:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
